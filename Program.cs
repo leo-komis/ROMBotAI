@@ -147,8 +147,7 @@ namespace ROMBotAI
 
             builder.ConfigureWebHostDefaults(webBuilder => webBuilder.UseStartup<Startup>());
 
-            dotnIHost host = (dotnIHost)builder.Build();
-            host.Run();
+            builder.Build().Run();
         }
 
         internal static object GetChatBot()
