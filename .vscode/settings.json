@@ -1,0 +1,6 @@
+{
+    "codegpt.apiKey": "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",
+    "codegpt.maxTokens": 4096,
+    "codegpt.model": "ChatGPT",
+    "codegpt.temperature": 0.85
+}

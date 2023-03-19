@@ -1,0 +1,14 @@
+@page
+@model ROMBot_AI.Pages.ChatModel
+@{
+    ViewData["Title"] = "Chat.cshtml";
+}
+
+<h1>@ViewData["ROMBot AI"]</h1>
+
+<div>
+    <form method="post" action="/Chat">
+        <input type="text" name="message" />
+        <input type="submit" value="Send" />
+    </form>
+</div>

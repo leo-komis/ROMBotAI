@@ -1,0 +1,12 @@
+/Users/leo/Library/CloudStorage/OneDrive-KOMISsrl/ROMBot-AI/obj/Debug/net7.0/ROMBot-AI.csproj.AssemblyReference.cache
+/Users/leo/Library/CloudStorage/OneDrive-KOMISsrl/ROMBot-AI/obj/Debug/net7.0/ROMBot-AI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leo/Library/CloudStorage/OneDrive-KOMISsrl/ROMBot-AI/obj/Debug/net7.0/ROMBot-AI.AssemblyInfoInputs.cache
+/Users/leo/Library/CloudStorage/OneDrive-KOMISsrl/ROMBot-AI/obj/Debug/net7.0/ROMBot-AI.AssemblyInfo.cs
+/Users/leo/Library/CloudStorage/OneDrive-KOMISsrl/ROMBot-AI/obj/Debug/net7.0/ROMBot-AI.csproj.CoreCompileInputs.cache
+/Users/leo/Library/CloudStorage/OneDrive-KOMISsrl/ROMBot-AI/obj/Debug/net7.0/ROMBot-AI.MvcApplicationPartsAssemblyInfo.cache
+/Users/leo/Library/CloudStorage/OneDrive-KOMISsrl/ROMBot/ROMBot-AI v2/ROMBot-AI/obj/Debug/net7.0/ROMBot-AI.csproj.AssemblyReference.cache
+/Users/leo/Library/CloudStorage/OneDrive-KOMISsrl/ROMBot/ROMBot-AI v2/ROMBot-AI/obj/Debug/net7.0/ROMBot-AI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leo/Library/CloudStorage/OneDrive-KOMISsrl/ROMBot/ROMBot-AI v2/ROMBot-AI/obj/Debug/net7.0/ROMBot-AI.AssemblyInfoInputs.cache
+/Users/leo/Library/CloudStorage/OneDrive-KOMISsrl/ROMBot/ROMBot-AI v2/ROMBot-AI/obj/Debug/net7.0/ROMBot-AI.AssemblyInfo.cs
+/Users/leo/Library/CloudStorage/OneDrive-KOMISsrl/ROMBot/ROMBot-AI v2/ROMBot-AI/obj/Debug/net7.0/ROMBot-AI.csproj.CoreCompileInputs.cache
+/Users/leo/Library/CloudStorage/OneDrive-KOMISsrl/ROMBot/ROMBot-AI v2/ROMBot-AI/obj/Debug/net7.0/ROMBot-AI.MvcApplicationPartsAssemblyInfo.cache
