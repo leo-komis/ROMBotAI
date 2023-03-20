@@ -1,8 +1,8 @@
 # ROMBot-AI
 
-[![Deploy to Azure App Service](https://github.com/leo-komis/ROMBot-AI/actions/workflows/master_rombot-ai.yml/badge.svg)](https://github.com/leo-komis/ROMBot-AI/actions/workflows/master_rombot-ai.yml)
+[![Deploy to Azure App Service](https://github.com/leo-komis/ROMBotAI/actions/workflows/master_rombot-ai.yml/badge.svg)](https://github.com/leo-komis/ROMBot-AI/actions/workflows/master_rombot-ai.yml)
 
-![AI image](https://raw.githubusercontent.com/leo-komis/ROMBot-AI/master/wwwroot/assets/Artboard%201.png)
+![AI image](https://raw.githubusercontent.com/leo-komis/ROMBotAI/master/wwwroot/assets/Artboard%201.png)
 
 ## Introduction
 
